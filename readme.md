@@ -3,11 +3,11 @@
 faça um bot que envie mensagem às 6h00 no telegram de analíse estátisca nos dias em que ocorre jogos do brasileirão serie.
 
 ### linguagens de programacao
-python
+- python
 
 ### ferramentas
-flashscore 
-data football
+- flashscore 
+- data football
 
 #### flashscore
 
@@ -24,13 +24,13 @@ Nos últimos 10 confrontos entre equipe_mandante vs equipe_visitante, houveram n
 
 mostrar histórico do confronto:
 
-data_confronto equipe_mandante gol_mandante x gol_visitante equipe_visitante
-data_confronto equipe_mandante gol_mandante x gol_visitante equipe_visitante
-data_confronto equipe_mandante gol_mandante x gol_visitante equipe_visitante
-data_confronto equipe_mandante gol_mandante x gol_visitante equioe_visitante
-...
-...
-...
+- data_confronto equipe_mandante gol_mandante x gol_visitante equipe_visitante
+- data_confronto equipe_mandante gol_mandante x gol_visitante equipe_visitante
+- data_confronto equipe_mandante gol_mandante x gol_visitante equipe_visitante
+- data_confronto equipe_mandante gol_mandante x gol_visitante equioe_visitante
+- ...
+- ...
+- ...
 
 
 
