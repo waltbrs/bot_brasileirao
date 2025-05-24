@@ -24,13 +24,21 @@ Nos últimos 10 confrontos entre equipe_mandante vs equipe_visitante, houveram n
 
 mostrar histórico do confronto:
 
-- data_confronto equipe_mandante gol_mandante x gol_visitante equipe_visitante
-- data_confronto equipe_mandante gol_mandante x gol_visitante equipe_visitante
-- data_confronto equipe_mandante gol_mandante x gol_visitante equipe_visitante
-- data_confronto equipe_mandante gol_mandante x gol_visitante equioe_visitante
-- ...
-- ...
-- ...
+18/05/2025 Bragantino 1 x 2 Palmeiras
+
+data_confronto equipe_mandante gol_mandante x gol_visitante equipe_visitante
+
+data_confronto equipe_mandante gol_mandante x gol_visitante equipe_visitante
+
+data_confronto equipe_mandante gol_mandante x gol_visitante equipe_visitante
+
+data_confronto equipe_mandante gol_mandante x gol_visitante equioe_visitante
+
+...
+
+...
+
+...
 
 
 
